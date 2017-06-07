@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/akhilnaruto/nodebotcoresamples.git"
   },
+  "dependencies": {
+    "botbuilder":"*",
+    "restify":"*"
+  },
   "author": "akhilnaruto",
   "license": "ISC",
   "bugs": {
