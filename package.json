@@ -1,0 +1,19 @@
+{
+  "name": "nodebotcoresamples",
+  "version": "1.0.0",
+  "description": "core samples for node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilnaruto/nodebotcoresamples.git"
+  },
+  "author": "akhilnaruto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilnaruto/nodebotcoresamples/issues"
+  },
+  "homepage": "https://github.com/akhilnaruto/nodebotcoresamples#readme"
+}
